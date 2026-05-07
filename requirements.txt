@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+python-dotenv
+jinja2
+openai
+# Add more when implementing: google-api-python-client, stripe, etc.
